@@ -33,7 +33,7 @@ public:
     }
 
     // Get item at index
-    T GetItem(size_t index) const
+    const T& GetItem(size_t index) const
     {
         if (index >= _Size) throw std::out_of_range("Index out of range");
         return OriginalArray[index];
