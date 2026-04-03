@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="clsDynamicArray-clsQueue-clsStack/clsDynamicArray-clsQueue-clsStack.vcxproj" Id="bb43185e-c810-4eb2-8b6f-16a23707284f" />
+</Solution>
